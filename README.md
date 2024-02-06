@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working with Asp.Net and Javascript-React based technologies. I am eager to learn new technologies and take challenges. My hobby is to solve and troubleshoot problems.
+I am currently working with Asp.Net and Javascript technologies. I am eager to learn new technologies and take challenges. My hobby is to solve and troubleshoot problems.
 
 
 ## 🌐 Socials:
